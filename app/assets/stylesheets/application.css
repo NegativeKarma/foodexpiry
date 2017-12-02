@@ -19,7 +19,7 @@
     center center no-repeat;
   background-size: cover;
 }
-
+<img alt="Responsive image" class="img-fluid"
 .card {
   background-color: none;
   background: none;
