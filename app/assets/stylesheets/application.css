@@ -1,16 +1,16 @@
 .index-bg {
-  height: 100%;
+  max-width: 100%;
+  height: auto;
+  opacity: 0.8;
   background: url('https://farm5.staticflickr.com/4572/23922749377_45e792fdb0_b.jpg')
     center center no-repeat;
   background-size: cover;
-}
-<img alt="Responsive image" class="img-fluid"
-.card {
-  background-color: none;
-  background: none;
+  padding-bottom: 30em
 }
 
 header,
 body {
   text-align: center;
+  color: black;
+  text-shadow: 0.3px 0.3px black;
 }
