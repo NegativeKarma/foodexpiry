@@ -1,34 +1,35 @@
-- name: Arla A-Fil Jordgubb eko
-  best_before: 18
-  description: Svagt syrlig fil med lätt gräddighet och god smak av jordgubbar, gjord på svensk mjölk från ekologiska Arlagårdar. Filen innehåller den hälsosamma bakterien Lactobacillus acidophilus LA-5. A-fil är lite tjockare i konsistensen och kan med fördel ätas tillsammans med müsli eller flingor. Den passar lika bra till frukost som mellanmål. Varumärket Arla Ko garanterar att produkten är gjord på 100 procent svensk mjölk. Den nya bruna kartongen har 24 procent lägre klimatpåverkan jämfört med den tidigare vita kartongen.
+- name: Strawberry eko
+  barcode: 7340734445548
+  best_before: 10
+  description: Fresh from the motherland
   fridge_temp: 8
-  recommendations: Fil håller i många veckor oöppnad
-  plus_days_min: 15
-  plus_days_max: 30
+  recommendations: Consistency might deteriorate, but it can still be used for many recipes
+  plus_days_min: 12
+  plus_days_max: 15
 
-- name: Salta pinnar COOP
+- name: Avocado
   barcode: 7340011445548
-  best_before: 180
-  description: Salta pinnar, helt enkelt
-  fridge_temp: 100
-  recommendations: Åratal
-  plus_days_min: 600
-  plus_days_max: 900
+  best_before: 20
+  description: Fresh avocados, directly from Mexico
+  fridge_temp: 8
+  recommendations: It's only the color, but it's still edible
+  plus_days_min: 5
+  plus_days_max: 10
 
-- name: Ramlösa Citrus
+- name: Red meat
   barcode: 73145721
   best_before: 30
-  description: Citrus och citron
-  fridge_temp: 7
-  recommendations: Bara smaken som avmattas
-  plus_days_min: 30
-  plus_days_max: 9999
+  description: Red meat from local farms
+  fridge_temp: 1
+  recommendations: It's only the color, but it's still edible
+  plus_days_min: 40
+  plus_days_max: 45
 
-- name: Pepsi Max
+- name: Coca Cola
   barcode: 7310070765987
   best_before: 30
-  description: Kolsyrad läskedryck
-  fridge_temp: 7
-  recommendations: Åtatal, men smakar piss oavsett ålder
+  description: Carbonated soft drink
+  fridge_temp: 5
+  recommendations: Nobody knows if it can last forever
   plus_days_min: 30
   plus_days_max: 9999

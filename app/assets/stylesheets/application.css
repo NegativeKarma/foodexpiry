@@ -2,10 +2,10 @@
   max-width: 100%;
   height: auto;
   opacity: 0.8;
-  background: url('https://farm5.staticflickr.com/4572/23922749377_45e792fdb0_b.jpg')
+  background: url('https://images.unsplash.com/photo-1477925518023-22b33cbd802c?auto=format&fit=crop&w=633&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D')
     center center no-repeat;
   background-size: cover;
-  padding-bottom: 30em
+  padding-bottom: 35em
 }
 
 header,
@@ -14,3 +14,12 @@ body {
   color: black;
   text-shadow: 0.3px 0.3px black;
 }
+
+.card {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+  opacity: 0.8;
+}
+
+/* https://farm5.staticflickr.com/4572/23922749377_45e792fdb0_b.jpg */
